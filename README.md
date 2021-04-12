@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hunter Posey(@ihposey12)!
-- I am fairly new in the Developing world and recently graduated from the Flatiron School Bootcamp, recieving my certificate for Software Engineering!
+- I am fairly new in the Developing world and recently graduated from the Flatiron School Bootcamp, recieving my certificate for Software Engineering! Prior to that, I recieved a Bachelors in Environmental Geography and Geographical Informational Systems in 2019.
 
 - Languages: || Javascript || Ruby || Ruby on Rails || ReactJS || HTML || CSS ||
 - Soft Skills/Interests: SQL || Python || Java || React Native || Unity || C# || C++ || Node.js ||
